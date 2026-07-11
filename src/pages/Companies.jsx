@@ -140,7 +140,7 @@ const Companies = () => {
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-6xl font-black text-gray-900 dark:text-white mb-6">
               <span className="bg-gradient-to-r from-gray-900 via-primary-600 to-purple-600 dark:from-white dark:via-primary-400 dark:to-purple-400 bg-clip-text text-transparent">
-                Top Companies
+                OLO inc. companies
               </span>
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
